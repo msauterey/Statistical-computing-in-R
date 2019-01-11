@@ -8,16 +8,16 @@ will have:
 - The skills to display analysis results in reproducible ways.
 
 Course Content
-1 - Introduction to R and RStudio: scripts and Markdown
-2 - R Basics: data types and best practices.
-3 - R Basics: EDA and base R graphics.
-4 - R Basics: web scraping and text data.
-5 - R Basics: writing functions and reproducibility.
-6 - R Basics: R commands for parametric distributions and random number generation.
-7 - Introduction to the tidyverse
-8 - Visualization and advanced R Graphics
-9 - Split/Apply/Combine and plyr
-10 - Debugging techniques
-11 - Databases
+- Introduction to R and RStudio: scripts and Markdown
+- R Basics: data types and best practices.
+- R Basics: EDA and base R graphics.
+- R Basics: web scraping and text data.
+- R Basics: writing functions and reproducibility.
+- R Basics: R commands for parametric distributions and random number generation.
+- Introduction to the tidyverse
+- Visualization and advanced R Graphics
+- Split/Apply/Combine and plyr
+- Debugging techniques
+- Databases
 
 The class will be taught in the R language using the RStudio interface.
